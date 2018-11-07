@@ -4,5 +4,5 @@
 
 *Run your local server to watch it!* :octocat:
 
-<small> Modified by Oliver ALR credits to: buritica :smile: </small> 
+<small> Created by Oliver ALR feat. buritica :smile: </small> 
 
